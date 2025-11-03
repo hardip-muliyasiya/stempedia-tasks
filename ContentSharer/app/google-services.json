@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64288955791",
+    "project_id": "fir-app-1b80a",
+    "storage_bucket": "fir-app-1b80a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64288955791:android:823fe20f8660e270293ffa",
+        "android_client_info": {
+          "package_name": "com.stempediatask.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkPOGra5-mv5eqoxY9tmpPXmrrvpJPVTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

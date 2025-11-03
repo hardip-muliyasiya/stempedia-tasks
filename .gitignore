@@ -1,0 +1,16 @@
+# Build output
+build/
+
+# Gradle folders
+.gradle/
+
+# IDE files and settings
+.idea/
+
+# Local configuration files
+# These contain SDK paths.
+local.properties
+
+# Signing keys
+*.jks
+*.keystore

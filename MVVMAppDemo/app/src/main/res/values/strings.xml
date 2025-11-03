@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMAppDemo</string>
+    <string name="notes_title">Notes</string>
+    <string name="new_note_title">Create new note</string>
+</resources>
